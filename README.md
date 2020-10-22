@@ -94,13 +94,14 @@ https://github.com/sardin311002/Latihan21.git <br>
 
 ![commit](ss/commit.jpg)
 
-* Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut :
+* Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut : <br>
 
 `git push`
 
 ![push](ss/push.jpg)
 
-* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote. <br>
 
+![tampilan](ss/tampilan.jpg)
 
-
+## SEKIAN TERIMAKSIH.
