@@ -52,6 +52,12 @@
 
 ![repositori](ss/hasilR.jpg)
 
+* Pembuatan akun dan repository pada Github telah selesai, saat ini akan kita lakukan untuk *me-remote* repository Github pada GitBash Lokal. Bagaimana caranya? Langkah pertama kita harus menyalin link *URL git* kita di Github, dengan cara tekan tombol **Code** lalu klik *Copy*.
 
+![code link repositori](ss/latihan.jpg)
+
+* Setelah *Link URL* git kita *copy*, Silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *mendownload* Repository dari Github ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**.
+
+![click git bash here](ss/GitBash.png)
 
 foto ![nama](nama folder/nama foto.png>jpg)
