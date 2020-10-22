@@ -66,6 +66,41 @@
 
 https://github.com/sardin311002/Latihan21.git <br>
 
-![git clone](ss.gitclone.jpg)
+![git clone](ss/gitclone.jpg)
 
-foto ![nama](nama folder/nama foto.png>jpg)
+* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu *LatihanVCS* dengan mengetikkan *syntax* berikut :
+
+`cd Latihan21/` <br>
+
+![cd](ss/cd.jpg)
+
+* Saat ini kita sudah masuk kedalam folder *LatihanVCS*, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor *(Sublime Text, Notepad, Notepad*++, *Visual Studio Code)*. Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : [click here](https://guides.github.com/features/mastering-markdown/) <br>
+
+
+![mulai](ss/mulai.jpg)
+
+* Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S** atau **File -> Save** <br>
+
+* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash **(CMD)**. Ketik pada Git Bash seperti berikut ini : <br>
+
+`git add`
+
+![gitadd](ss/gitadd.jpg)
+
+* Setelah selesai melakukan *git add* . langkah berikutnya kita akan melakukan *commit.* Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini : <br>
+
+
+`git commit "Update README.md"`
+
+![commit](ss/commit.jpg)
+
+* Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut :
+
+`git push`
+
+![push](ss/push.jpg)
+
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
+
+
+
