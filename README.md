@@ -60,4 +60,12 @@
 
 ![click git bash here](ss/GitBash.png)
 
+* *Pop Up* Command Prompt **(CMD)** akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut :
+
+`git clone [URL] pada contoh akan saya masukan di git clone` <br>
+
+https://github.com/sardin311002/Latihan21.git <br>
+
+![git clone](ss.gitclone.jpg)
+
 foto ![nama](nama folder/nama foto.png>jpg)
